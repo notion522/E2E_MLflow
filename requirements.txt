@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+notebook
+mlflow==3.5.1
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-pyYAML
+Flask
+Flask-cors
+-e .
+#the above line looks for setup.py in the current directory and installs the package in editable mode
