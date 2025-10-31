@@ -2,7 +2,7 @@
 
 ## workflows
 
-1. update confid.yaml
+1. update config.yaml
 2. update schema.yaml
 3. update the params.yaml
 4. update the entity
